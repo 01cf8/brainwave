@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://01cf8.github.io/brainwave/",
+  "homepage": "https://01cf8.github.io/brainwave/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
